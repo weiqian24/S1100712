@@ -192,7 +192,7 @@ fun FirstScreen(navController: NavController) {
         Button(onClick = {
             navController.navigate("JumpSecond")
         }) {
-            Text(text = "資科三B 徐葦蒨")
+            Text(text = "資科三B徐葦蒨")
         }
 
 
